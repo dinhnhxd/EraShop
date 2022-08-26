@@ -1,0 +1,7 @@
+{
+  "name": "erashop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
